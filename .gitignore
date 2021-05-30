@@ -1,9 +1,2 @@
-/avto-iptv-tva.m3u
-/il.m3u
-/local.m3u
 /node_modules
-/out.m3u
-/out1.m3u
-/out2.m3u
-/smarttvnews.m3u
-/smarttvnews_in.m3u
+*.m3u
