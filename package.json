@@ -1,0 +1,18 @@
+{
+  "name": "iptvlistvalidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Trurl McByte",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "ffmpeg-probe": "^1.0.6",
+    "iptv-playlist-parser": "^0.7.0"
+  }
+}
